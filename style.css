@@ -10,10 +10,10 @@
   display: block;
   text-align: right;
 }
-.app-img .img {
+.img {
   width: 100%;
 }
-.app-img .more-info {
+.more-info {
   font-family: fantasy, cursive;
 }
 
